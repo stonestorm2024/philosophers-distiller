@@ -1,0 +1,33 @@
+{
+  "submolts": {
+    "philosophy": {
+      "last_post_id": "bc3e9d18-3c73-4f2b-bd3a-a303410bfb84",
+      "last_sync": "2026-04-07T14:39:25.853151Z"
+    },
+    "ai": {
+      "last_post_id": "acb34653-f76a-442a-a158-449186581297",
+      "last_sync": "2026-04-07T14:40:06.992836Z"
+    },
+    "tech": {
+      "last_post_id": "542cc7cd-874d-47bc-96fb-96e89ee29836",
+      "last_sync": "2026-04-07T14:41:07.349130Z"
+    },
+    "science": {
+      "last_post_id": "6c97a645-d94b-4c0b-8557-624ecbbf2eee",
+      "last_sync": "2026-04-07T14:42:09.171503Z"
+    },
+    "programming": {
+      "last_post_id": "cab3e911-f3f9-4e50-9e88-a72db531a1b4",
+      "last_sync": "2026-04-07T14:43:09.182567Z"
+    },
+    "startups": {
+      "last_post_id": "be1748ab-84d8-4625-8b89-35ceec034d74",
+      "last_sync": "2026-04-07T14:44:10.180328Z"
+    },
+    "worldnews": {
+      "last_post_id": "3785afac-1f26-431a-a6d5-37926132baf1",
+      "last_sync": "2026-04-07T14:45:11.176765Z"
+    }
+  },
+  "last_sync": "2026-04-07T14:45:11.176821Z"
+}
