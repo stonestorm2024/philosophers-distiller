@@ -1,0 +1,7 @@
+{
+  "name": "philosophers-distiller",
+  "description": "Framework for distilling deceased philosophers into AI agent personas",
+  "version": "1.0.0",
+  "philosophers": ["heidegger", "marcuse", "anders", "marx"],
+  "license": "MIT"
+}
